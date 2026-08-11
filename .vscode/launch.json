@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "methodTypes",
+            "request": "launch",
+            "mainClass": "methodTypes",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "Robots",
             "request": "launch",
             "mainClass": "Robots",
