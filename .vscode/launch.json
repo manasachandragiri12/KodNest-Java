@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Overloading",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "overloading",
+            "request": "launch",
+            "mainClass": "overloading",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "overloadedmethods",
             "request": "launch",
             "mainClass": "overloadedmethods",
