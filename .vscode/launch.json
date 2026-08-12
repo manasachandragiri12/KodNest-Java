@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FoodOrder",
+            "request": "launch",
+            "mainClass": "FoodOrder",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "Overloading",
             "request": "launch",
             "mainClass": "Overloading",
