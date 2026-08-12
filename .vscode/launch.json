@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "overloadedmethods",
+            "request": "launch",
+            "mainClass": "overloadedmethods",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "shadowing",
             "request": "launch",
             "mainClass": "shadowing",
