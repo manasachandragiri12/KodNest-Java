@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "shadowing",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "namethis",
             "request": "launch",
             "mainClass": "namethis",
