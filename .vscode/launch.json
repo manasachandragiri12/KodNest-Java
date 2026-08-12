@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentMethodsDemo",
+            "request": "launch",
+            "mainClass": "StudentMethodsDemo",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "studentmethods",
+            "request": "launch",
+            "mainClass": "studentmethods",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "FoodOrder",
             "request": "launch",
             "mainClass": "FoodOrder",
