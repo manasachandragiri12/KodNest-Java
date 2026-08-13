@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "performance",
+            "request": "launch",
+            "mainClass": "performance",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "studentRegistration",
+            "request": "launch",
+            "mainClass": "studentRegistration",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "learnerprofile",
             "request": "launch",
             "mainClass": "learnerprofile",
