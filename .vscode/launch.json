@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "learnerprofile",
+            "request": "launch",
+            "mainClass": "learnerprofile",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "StudentMethodsDemo",
             "request": "launch",
             "mainClass": "StudentMethodsDemo",
