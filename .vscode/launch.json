@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Paassenger",
+            "request": "launch",
+            "mainClass": "Paassenger",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "Conductor$Passenger",
+            "request": "launch",
+            "mainClass": "Conductor$Passenger",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "book",
+            "request": "launch",
+            "mainClass": "book",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "initializename",
+            "request": "launch",
+            "mainClass": "initializename",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "StudentApplication",
+            "request": "launch",
+            "mainClass": "StudentApplication",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "performance",
             "request": "launch",
             "mainClass": "performance",
