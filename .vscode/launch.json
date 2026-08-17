@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Programarrray",
+            "request": "launch",
+            "mainClass": "Programarrray",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "Paassenger",
             "request": "launch",
             "mainClass": "Paassenger",
