@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arraystatistics",
+            "request": "launch",
+            "mainClass": "Arraystatistics",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "arrayMutation",
             "request": "launch",
             "mainClass": "arrayMutation",
