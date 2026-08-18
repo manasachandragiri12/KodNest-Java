@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Analyze",
+            "request": "launch",
+            "mainClass": "Analyze",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "runtime",
+            "request": "launch",
+            "mainClass": "runtime",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "Runtime",
+            "request": "launch",
+            "mainClass": "Runtime",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "Programarrray",
             "request": "launch",
             "mainClass": "Programarrray",
