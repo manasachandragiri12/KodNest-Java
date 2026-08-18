@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "Arraystatistics",
             "request": "launch",
             "mainClass": "Arraystatistics",
