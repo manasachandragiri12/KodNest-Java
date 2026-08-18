@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxElements",
+            "request": "launch",
+            "mainClass": "MaxElements",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "totalaverage",
             "request": "launch",
             "mainClass": "totalaverage",
