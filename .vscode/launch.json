@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reorder",
+            "request": "launch",
+            "mainClass": "reorder",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "debug",
             "request": "launch",
             "mainClass": "debug",
