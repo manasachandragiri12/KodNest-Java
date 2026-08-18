@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frequency",
+            "request": "launch",
+            "mainClass": "frequency",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "reverse",
             "request": "launch",
             "mainClass": "reverse",
