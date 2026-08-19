@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rowcol",
+            "request": "launch",
+            "mainClass": "rowcol",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
+            "name": "rowcolumn",
+            "request": "launch",
+            "mainClass": "rowcolumn",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "frequency",
             "request": "launch",
             "mainClass": "frequency",
