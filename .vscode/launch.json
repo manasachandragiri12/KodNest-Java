@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "threedarray",
+            "request": "launch",
+            "mainClass": "threedarray",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "rowcol",
             "request": "launch",
             "mainClass": "rowcol",
