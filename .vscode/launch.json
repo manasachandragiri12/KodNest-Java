@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "readText",
+            "request": "launch",
+            "mainClass": "M04.readText",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "string3",
             "request": "launch",
             "mainClass": "M04.string3",
