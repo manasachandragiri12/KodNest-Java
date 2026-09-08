@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "method1",
+            "request": "launch",
+            "mainClass": "M04.method1",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "normalize",
             "request": "launch",
             "mainClass": "M04.normalize",
