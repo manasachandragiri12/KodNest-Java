@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "M04.compare",
+            "projectName": "KodNest-Java_25785d02"
+        },
+        {
+            "type": "java",
             "name": "prgm2",
             "request": "launch",
             "mainClass": "M04.prgm2",
